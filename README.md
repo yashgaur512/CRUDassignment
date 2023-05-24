@@ -2,9 +2,9 @@ Appointment Booking System
 
 This project does basic CRUD operations using spring Boot and PostgreSQL.
 
-\nUser can Create an Appointment
-\nUser can get all Appointments 
-\nUser can get a specific Appointment using id
-\nUser can delete the Appointment
-\nUser can update the Appointment (start time and end time) 
+<br>User can Create an Appointment
+<br>User can get all Appointments 
+<br>User can get a specific Appointment using id
+<br>User can delete the Appointment
+<br>User can update the Appointment (start time and end time) 
 
